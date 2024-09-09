@@ -1,0 +1,12 @@
+com.portal
+com.portal.common
+com.portal.common.attachment
+com.portal.common.mail
+com.portal.common.message
+com.portal.config
+com.portal.ctl
+com.portal.dao
+com.portal.dto
+com.portal.exception
+com.portal.form
+com.portal.service
